@@ -14,6 +14,14 @@ const ShortTypeHints: Hint[] = [
         inline: true
     },
     {
+        text: ':::note(note abstract info tip success question warning failure danger bug example quote)\n' +
+            '\n' +
+            ':::',
+        displayText: '/note',
+        description: 'Codeblock',
+        inline: false
+    },
+    {
         text: '```\n' +
             '\n' +
             '```',
