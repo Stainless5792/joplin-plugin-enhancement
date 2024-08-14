@@ -1,13 +1,13 @@
 {
 	"manifest_version": 1,
-	"id": "com.septemberhx.Joplin.Enhancement",
+	"id": "com.septemberhx.Joplin.Enhancement_mky",
 	"app_min_version": "2.7",
 	"version": "1.2.1",
-	"name": "Enhancement",
+	"name": "Enhancement_mky",
 	"description": "Enhance the markdown editor with live preview for math, mermaid, link, image, and more. It also includes other features for markdown rendering.",
 	"author": "SeptemberHX",
-	"homepage_url": "https://github.com/SeptemberHX/joplin-plugin-enhancement.git",
-	"repository_url": "https://github.com/SeptemberHX/joplin-plugin-enhancement.git",
+	"homepage_url": "https://github.com/Stainless5792/joplin-plugin-enhancement.git",
+	"repository_url": "https://github.com/Stainless5792/joplin-plugin-enhancement.git",
 	"keywords": ["Live Preview"],
 	"categories": []
 }
