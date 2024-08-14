@@ -171,6 +171,7 @@ Type `/command` in the editor for quick input of table, mermaid, etc.
 ## Build
 
 ### Building the plugin
+Docker build: `docker run --rm -it node:16 bash`
 
 The plugin is built using Webpack, which creates the compiled code in `/dist`. A JPL archive will also be created at the root, which can use to distribute the plugin.
 
